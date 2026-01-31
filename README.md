@@ -1,4 +1,4 @@
-# Hunt Showdown 1986 Performance Config # 
+# Hunt Showdown 1896 Performance Config # 
 ### Кастомный system.cfg сделанный с упором на максимальное повышение FPS и отключение всего лишнего в игре ### 
 ### Обновлено: 31.01.26 для Cryengine 5.11 ####
 ## Что такое `system.cfg`
